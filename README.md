@@ -1,4 +1,4 @@
-# easy.writer
+# Easy Writer for M.NT 68676.3
 Easy Writer software for LCD Panel Control Boards
 
 Geliştirme taleplerine uygun olarak aşağıdaki kod bölümlerine yorumlar eklendi:
